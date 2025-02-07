@@ -11,3 +11,4 @@ from quantus.metrics.faithfulness import *
 from quantus.metrics.localisation import *
 from quantus.metrics.randomisation import *
 from quantus.metrics.robustness import *
+from quantus.metrics.unified import *

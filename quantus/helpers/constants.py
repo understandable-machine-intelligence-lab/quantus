@@ -72,6 +72,9 @@ AVAILABLE_METRICS: Final[Mapping[str, Mapping[str, Type[Metric]]]] = {
         "NonSensitivity": NonSensitivity,
         "InputInvariance": InputInvariance,
     },
+    "Unified": {
+        "Generalised Explanation Faithfulness": GeneralisedExplanationFaithfulness
+        }
 }
 
 

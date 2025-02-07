@@ -27,7 +27,7 @@ If you want to contribute/ improve/ extend Quantus, join our [Discord](https://d
 
 - 🐼 For **training data attribution** evaluation, check out [quanda](https://github.com/dilyabareeva/quanda)!
 - New [batch implementation](https://github.com/understandable-machine-intelligence-lab/Quantus/pull/351) for 12X speedup of existing faithfulness metrics (!)
-- New metrics added: [EfficientMPRT](https://github.com/understandable-machine-intelligence-lab/Quantus/blob/main/quantus/metrics/randomisation/efficient_mprt.py) and [SmoothMPRT](https://github.com/understandable-machine-intelligence-lab/Quantus/blob/main/quantus/metrics/randomisation/smooth_mprt.py) by [Hedström et al., (2023)](https://openreview.net/pdf?id=vVpefYmnsG)
+- New metric added: [Generalised Explanation Faithfulness (GEF)](https://github.com/understandable-machine-intelligence-lab/Quantus/blob/main/quantus/metrics/unified/generalised_explanation_faithfulness.py) by [Hedström et al., (2025]https://openreview.net/pdf?id=ukLxqA8zXj)
 - Accepted to Journal of Machine Learning Research (MLOSS), read the [paper](https://jmlr.org/papers/v24/22-0142.html)
 - Offers more than **35+ metrics in 6 categories** for XAI evaluation
 - Supports different data types (image, time-series, tabular, NLP next up!) and models (PyTorch, TensorFlow)

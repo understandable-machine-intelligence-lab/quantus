@@ -58,4 +58,5 @@ class EvaluationCategory(Enum):
     COMPLEXITY = "Complexity"
     LOCALISATION = "Localisation"
     AXIOMATIC = "Axiomatic"
+    UNIFIED = "Unified"
     NONE = "None"
